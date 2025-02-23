@@ -1,5 +1,5 @@
 # Solving-differential-equations-using-euler-function
-This repository contains an implementation of a numerical solver for differential equations using Euler's Method. The solver approximates solutions for first-order differential equations by iteratively computing values at discrete time steps.
+This repository contains an implementation of a numerical solver for differential equations using Euler's Method. The solver approximates solutions for first-order differential equations by iteratively computing values at discrete time steps using MIPS32 Assembly.
 
 # Features
 Solves First-Order Differential Equations  
